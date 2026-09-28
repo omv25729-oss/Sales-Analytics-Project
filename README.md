@@ -155,7 +155,7 @@ Python libraries used included:
 11. Sales were concentrated among several high-performing sub-categories.
 12. Overall, the business generated ₹431,502 sales, ₹23,955 profit, 5,615 units, and 500 orders.
 
-13. ## Business Recommendations
+ ## Business Recommendations
 
 - Investigate low-performing months and use targeted promotions or better inventory planning.
 - Analyze the factors behind the improvement in profit during the later months.
