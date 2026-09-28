@@ -92,3 +92,26 @@ SQL techniques used included:
 - RANK()
 - DENSE_RANK()
 - LAG()
+
+## Python Analysis
+
+Python was used to perform exploratory data analysis (EDA) and identify patterns and trends in the sales data.
+
+The analysis included:
+
+- Monthly sales and profit trends
+- Category performance
+- Sub-category performance
+- Regional performance
+- Customer analysis
+- Sales and profit distributions
+- Outlier analysis
+- Month-over-month growth
+- Data visualization
+
+Python libraries used included:
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
