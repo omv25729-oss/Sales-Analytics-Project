@@ -139,3 +139,18 @@ Python libraries used included:
 - NumPy
 - Matplotlib
 - Seaborn
+
+- ## Key Insights
+
+1. January recorded the highest monthly sales (~₹61.4K), while July recorded the lowest (~₹13.0K).
+2. November recorded the highest monthly profit (~₹11.6K), with profitability improving from October onward.
+3. Electronics generated the highest sales (₹165,267).
+4. Clothing generated the highest profit (~₹11,163) and profit margin (8.03%).
+5. Furniture had the lowest profit margin (1.81%) despite generating ₹127,181 in sales.
+6. Madhya Pradesh was the highest-sales state (~₹105.1K).
+7. Indore was the highest-sales city (~₹79.1K).
+8. Printers were the top-selling sub-category (~₹58.3K).
+9. High-value customers such as Yaanvi, Pooja, and Abhishek contributed significantly to sales.
+10. Negative-profit transactions reduced overall profitability.
+11. Sales were concentrated among several high-performing sub-categories.
+12. Overall, the business generated ₹431,502 sales, ₹23,955 profit, 5,615 units, and 500 orders.
