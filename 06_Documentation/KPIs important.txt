@@ -1,0 +1,11 @@
+Overall Business KPIs:
+
+Total Sales: ₹431,502
+Total Profit: ₹23,955
+Total Quantity Sold: 5,615
+Total Orders: 500
+Average Order Value: ₹863
+Overall Profit Margin: 5.55%
+
+Initial Insight:
+The business generated ₹431,502 in sales but achieved a relatively low profit margin of approximately 5.55%, indicating that profitability should be further analyzed by category, product, and geography.

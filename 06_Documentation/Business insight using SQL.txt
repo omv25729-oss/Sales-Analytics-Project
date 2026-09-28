@@ -1,0 +1,34 @@
+1. Overall Performance
+
+The business generated ₹431,502 in sales and ₹23,955 in profit, with an overall profit margin of approximately 5.55%. The average order value was ₹863.
+
+2. Category Performance
+
+Electronics generated the highest sales at ₹165,267, while Clothing generated the highest profit at ₹11,163. Furniture generated ₹127,181 in sales but only ₹2,298 profit, resulting in a low 1.81% profit margin.
+
+3. Sub-Category Performance
+
+Printers generated the highest sub-category sales among the analyzed sub-categories, with sales of ₹58,252.
+
+4. Geographic Performance
+
+Madhya Pradesh generated the highest state sales at ₹105,140. Indore was the highest-sales city in the displayed results with ₹79,069. Tamil Nadu recorded a negative profit of ₹2,216, indicating a need for further investigation.
+
+5. Customer Performance
+
+Yaanvi generated the highest sales among the displayed customers at ₹9,177, while Seema generated the highest profit at ₹1,970. Shreya had the highest purchase frequency with 6 orders.
+
+6. Monthly Performance
+
+Sales showed significant month-to-month fluctuations. The largest increase shown was 138.31% in August, while the largest decline was 45.19% in July.
+
+7. Target Performance
+"The target analysis compares actual monthly sales with the corresponding monthly category targets(all the categories missed their sales target)"
+
+8. Business Opportunities
+-Investigate the low profitability of Furniture.
+-Investigate the negative profit recorded in Tamil Nadu.
+-Understand the causes of major monthly sales fluctuations.
+-Analyze why high-sales customers and high-profit customers differ.
+-Investigate high-performing sub-categories such as Printers.
+-Review categories/months that missed their sales targets.
