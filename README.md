@@ -109,6 +109,30 @@ The analysis included:
 - Month-over-month growth
 - Data visualization
 
+## Power BI Dashboard
+
+Power BI was used to build an interactive sales analytics dashboard.
+
+The dashboard includes:
+
+- Executive Overview
+- Sales and Profit KPIs
+- Monthly Sales & Profit Trends
+- Category & Sub-category Analysis
+- Customer Analysis
+- Regional Analysis
+- Target vs Actual Analysis
+- Interactive filters and slicers
+
+DAX measures were created to calculate key metrics such as:
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Quantity
+- Average Order Value
+- Profit Margin
+- Sales Growth
 Python libraries used included:
 
 - Pandas
