@@ -154,3 +154,18 @@ Python libraries used included:
 10. Negative-profit transactions reduced overall profitability.
 11. Sales were concentrated among several high-performing sub-categories.
 12. Overall, the business generated ₹431,502 sales, ₹23,955 profit, 5,615 units, and 500 orders.
+
+13. ## Business Recommendations
+
+- Investigate low-performing months and use targeted promotions or better inventory planning.
+- Analyze the factors behind the improvement in profit during the later months.
+- Maintain inventory availability for high-demand Electronics products while monitoring their profitability.
+- Continue focusing on high-performing Clothing products because of their strong profit margin.
+- Review Furniture pricing, costs, and discounting to improve its low profit margin.
+- Analyze successful products and customer segments in high-performing states such as Madhya Pradesh.
+- Maintain strong product availability in high-performing cities such as Indore.
+- Prioritize high-demand sub-categories such as Printers, Bookcases, and Saree.
+- Develop customer retention strategies for high-value customers.
+- Investigate loss-making transactions and identify ways to reduce future losses.
+- Improve the performance of lower-selling sub-categories.
+- Focus on improving profit margins rather than increasing sales volume alone.
