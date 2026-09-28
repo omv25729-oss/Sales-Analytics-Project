@@ -47,3 +47,18 @@ The raw datasets were cleaned and merged using Excel and Power Query before anal
 - Python — Exploratory Data Analysis (EDA)
 - Power BI — Data modeling, DAX and dashboard visualization
 - GitHub — Project documentation and version control
+
+- ## Data Cleaning
+
+The raw sales data was cleaned and prepared using Excel and Power Query.
+
+The main steps included:
+
+- Checked and handled missing values
+- Removed duplicate records
+- Standardized date formats
+- Checked sales and profit values
+- Standardized category and sub-category names
+- Merged the order and order-detail datasets
+- Created calculated fields such as Year, Month, Profit Margin, and Sales Amount
+- Validated the final cleaned dataset before analysis
