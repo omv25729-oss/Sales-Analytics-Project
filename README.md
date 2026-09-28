@@ -169,3 +169,17 @@ Python libraries used included:
 - Investigate loss-making transactions and identify ways to reduce future losses.
 - Improve the performance of lower-selling sub-categories.
 - Focus on improving profit margins rather than increasing sales volume alone.
+
+- ## Power BI Dashboard
+
+### Executive Overview
+![Executive Overview](07_Final/Executive%20Overview.png)
+
+### Customer Analysis
+![Customer Analysis](07_Final/Customer%20Analysis.png)
+
+### Product Analysis
+![Product Analysis](07_Final/Product%20Analysis.png)
+
+### Regional Analysis
+![Regional Analysis](07_Final/Regional%20Analysis.png)
