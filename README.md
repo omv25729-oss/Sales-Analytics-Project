@@ -23,3 +23,19 @@ The analysis focuses on:
 - Actual sales versus targets
 
 The objective is to identify key business insights and provide recommendations to support better business decisions.
+
+## Dataset
+
+The project uses sales transaction data containing information about:
+
+- Orders
+- Sales amount
+- Profit
+- Quantity
+- Category and sub-category
+- Order date
+- Customers
+- State and city
+- Sales targets
+
+The raw datasets were cleaned and merged using Excel and Power Query before analysis.
