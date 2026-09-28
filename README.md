@@ -183,3 +183,14 @@ Python libraries used included:
 
 ### Regional Analysis
 ![Regional Analysis](07_Final/Regional%20Analysis.png)
+
+## Project Workflow
+
+Raw Data
+→ Data Cleaning
+→ SQL Analysis
+→ Python EDA
+→ Power BI Data Modeling & DAX
+→ Dashboard
+→ Business Insights
+→ Recommendations
