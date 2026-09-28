@@ -194,3 +194,15 @@ Raw Data
 → Dashboard
 → Business Insights
 → Recommendations
+
+## Project Structure
+
+Sales-Analytics-Project/
+│
+├── 01_Raw_data/
+├── 02_clean_data/
+├── 03_SQL/
+├── 04_python/
+├── 05_power_bi/
+├── 06_Documentation/
+└── 07_Final/
