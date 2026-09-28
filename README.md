@@ -39,3 +39,11 @@ The project uses sales transaction data containing information about:
 - Sales targets
 
 The raw datasets were cleaned and merged using Excel and Power Query before analysis.
+
+## Tools Used
+
+- Excel & Power Query — Data cleaning and transformation
+- MySQL — SQL analysis and business queries
+- Python — Exploratory Data Analysis (EDA)
+- Power BI — Data modeling, DAX and dashboard visualization
+- GitHub — Project documentation and version control
