@@ -48,7 +48,7 @@ The raw datasets were cleaned and merged using Excel and Power Query before anal
 - Power BI — Data modeling, DAX and dashboard visualization
 - GitHub — Project documentation and version control
 
-- ## Data Cleaning
+ ## Data Cleaning
 
 The raw sales data was cleaned and prepared using Excel and Power Query.
 
@@ -63,7 +63,7 @@ The main steps included:
 - Created calculated fields such as Year, Month, Profit Margin, and Sales Amount
 - Validated the final cleaned dataset before analysis
 
-- ## SQL Analysis
+ ## SQL Analysis
 
 SQL was used to analyze the cleaned sales dataset and answer key business questions.
 
@@ -140,7 +140,7 @@ Python libraries used included:
 - Matplotlib
 - Seaborn
 
-- ## Key Insights
+## Key Insights
 
 1. January recorded the highest monthly sales (~₹61.4K), while July recorded the lowest (~₹13.0K).
 2. November recorded the highest monthly profit (~₹11.6K), with profitability improving from October onward.
@@ -155,7 +155,7 @@ Python libraries used included:
 11. Sales were concentrated among several high-performing sub-categories.
 12. Overall, the business generated ₹431,502 sales, ₹23,955 profit, 5,615 units, and 500 orders.
 
- ## Business Recommendations
+## Business Recommendations
 
 - Investigate low-performing months and use targeted promotions or better inventory planning.
 - Analyze the factors behind the improvement in profit during the later months.
@@ -170,7 +170,7 @@ Python libraries used included:
 - Improve the performance of lower-selling sub-categories.
 - Focus on improving profit margins rather than increasing sales volume alone.
 
-- ## Power BI Dashboard
+## Power BI Dashboard
 
 ### Executive Overview
 ![Executive Overview](07_Final/Executive%20Overview.png)
