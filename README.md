@@ -62,3 +62,33 @@ The main steps included:
 - Merged the order and order-detail datasets
 - Created calculated fields such as Year, Month, Profit Margin, and Sales Amount
 - Validated the final cleaned dataset before analysis
+
+- ## SQL Analysis
+
+SQL was used to analyze the cleaned sales dataset and answer key business questions.
+
+The analysis included:
+
+- Total sales, profit and quantity
+- Monthly sales and profit trends
+- Sales and profit by category
+- Sales by state and city
+- Top and bottom-performing products
+- Top customers
+- Average order value
+- Profit margin by category
+- Month-over-month growth
+- Customer ranking
+- Best and worst-performing regions
+
+SQL techniques used included:
+
+- GROUP BY
+- CASE statements
+- JOINs
+- CTEs
+- Subqueries
+- Window functions
+- RANK()
+- DENSE_RANK()
+- LAG()
